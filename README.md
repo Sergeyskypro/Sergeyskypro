@@ -11,3 +11,5 @@
 ### Follow me
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=27A0D9
 )](https://t.me/Sergey_Shlyapnikov)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sergeyskypro&show_icons=true)](https://github.com/Sergeyskypro/github-readme-stats)
