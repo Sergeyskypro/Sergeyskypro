@@ -1,10 +1,10 @@
-[![Header](assets/images.png)](https://my.sky.pro/student-cabinet/stream/1701/employment)
+[![Header](assets/maxresdefault.jpg)](https://my.sky.pro/student-cabinet/stream/1701/employment)
 
 ## Я ручной тестировщик, изучающий автоматизацию тестирования на Python. Постоянно слежу за новыми технологиями, методами и инструментами, связанными с тестированием, чтобы быть в курсе последних тенденций и применять их в практической работе. Всё это помогает мне не только развиваться в области тестирования, но и приносить большую пользу команде и достигать высоких результатов.
 
 ### Testing Documentation
 
-- [Checklists](https://github.com/Sergeyskypro/checklists)
+- [Checklists](https://docs.google.com/spreadsheets/d/12B4bHVVG3u7YUeVQqxYQQmsFFSF4udof/edit?usp=drive_link&ouid=117072655931124973835&rtpof=true&sd=true)
 
 ### Tools
 ![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5F8
