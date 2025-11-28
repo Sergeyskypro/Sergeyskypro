@@ -7,13 +7,10 @@
 - [Checklists](https://docs.google.com/spreadsheets/d/12B4bHVVG3u7YUeVQqxYQQmsFFSF4udof/edit?usp=drive_link&ouid=117072655931124973835&rtpof=true&sd=true)
 
 ### Tools
-![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5F8
-)
-![SQL](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mySql&logoColor=07C5F8
-)
+![Flutter](https://img.shields.io/badge/-Flutter-090909?style=for-the-badge&logo=flutter&logoColor=47C5F8)
+![SQL](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=mySql&logoColor=07C5F8)
 
 ### Follow me
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=27A0D9
-)](https://t.me/Sergey_Shlyapnikov)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=27A0D9)](https://t.me/Sergey_Shlyapnikov)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sergeyskypro&show_icons=true)](https://github.com/Sergeyskypro/github-readme-stats)
